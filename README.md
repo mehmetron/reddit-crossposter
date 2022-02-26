@@ -1,5 +1,5 @@
 
-# Reddit reposter script
+# Reddit crossposter script
 
 I'm using it to repost videos from /r/mealtimevideos to /r/pooptimevideos
 
