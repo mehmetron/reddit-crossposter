@@ -1,17 +1,16 @@
 
-# /r/mealtimevideos to /r/pooptimevideos
+# Reddit reposter script
 
-It reposts videos from /r/mealtimevideos to /r/pooptimevideos
+I'm using it to repost videos from /r/mealtimevideos to /r/pooptimevideos
 
-I'm already running the script so no point in you running it.
 
 If you'd like to use it on another pair of subreddits:
 
 1. Create a .env file in the same directory as this file
 2. Add the following lines to the .env file:
 ```
-source_subreddit=mealtimevideos
-destination_subreddit=pooptimevideos
+source_subreddit=
+destination_subreddit=
 
 username=
 password=
