@@ -18,11 +18,17 @@ client_id=
 secret=
 user_agent=
 ```
-3. Install dependencies
+3. Setup virtual env
+```
+pip3 install virtualenv
+python3 -m venv env
+source env/bin/activate
+```
+4. Install dependencies
 ```
 pip3 install -r requirements.txt
 ```
-4. Run the script
+5. Run the script
 ```
 python3 main.py
 ```
